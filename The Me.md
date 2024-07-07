@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Operating Systems and Networking
 - 🌱 I’m currently learning ... Redhat Linux
 - 💞️ I’m looking to collaborate on ... who can teach me to grow-up.
-- 📫 How to reach me ...
+- 📫 How to reach me ... just reach me here
 - 😄 Pronouns: ... lalo Salmanca
 - ⚡ Fun fact: ... I am a 27yr old newbie to this GIT world
 
